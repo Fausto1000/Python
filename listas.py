@@ -4,14 +4,13 @@
 # Listas en Python
 
 # creando una lista
-print 'operaciones con listas'
-print '____________________________________________________________'
+print ("operaciones con listas")
 nombre_lista = ['Enmanuel','Alexander','Kevin','Zarine',4,1.94]
 mi_lista = ['Luz','Ana Isabel']
-print 'Lista:',nombre_lista
+print "Lista:",nombre_listau
 
 # acceder a un elemento especifico de la lista
-print 'Accediendo a un elemento de la lista:',nombre_lista[0]
+print ("Accediendo a un elemento de la lista: "),nombre_lista[0]
 
 # acceder a una porción de la lista
 print 'Muestra el rango de los elemento de la lista:',nombre_lista[0:2]
